@@ -1,73 +1,48 @@
-# CODE1234 - 课程中文名称
-<!-- TOML-META: repo_type="normal" -->
+# PostgradElectives - 研究生专业选修
+<!-- TOML-META: repo_type="multi-project" -->
 
-在这里填写课程的简要介绍。
-可以换行。
+## 关于研究生专业选修模块
 
-## 授课教师
+研究生专业选修课按学科模块组织。不同培养方案会推荐不同模块，同一模块在不同方案中显示的课程也可能不同；选课时请以研究生教务系统和本人培养方案为准。
 
-<!-- TOML-LECTURERS: part="intro" -->
+本仓库是所有研究生专业共用的导航入口。各模块的课程介绍、学习建议和资料由对应的分模块仓库维护，不在培养方案数据中重复维护。
 
-<!-- TOML-ITEM: id="lecturers-intro-1" -->
+<!-- TOML-COURSES-START -->
 
-教师团队总体介绍。
-人数: 3人
+## 专业模块目录
+<!-- TOML-COURSE: code="" name="专业模块目录" -->
 
-> 文 / 管理员，2025-01
+### 硕士、博士均设有的模块
 
-<!-- TOML-ITEM: id="lecturers-intro-2" -->
+- 计算机科学与技术：硕士 MA、博士 DA（`Postgrad-ComputerScience`，待建设）
+- 信息与通信工程：硕士 MC、博士 DC（`Postgrad-InformationCommunication`，待建设）
+- 机械工程：硕士 MD、博士 DD（`Postgrad-MechanicalEngineering`，待建设）
+- 动力工程及工程热物理：硕士 ME、博士 DE（`Postgrad-PowerEngineering`，待建设）
+- 电气工程：硕士 MF、博士 DF（`Postgrad-ElectricalEngineering`，待建设）
+- 控制科学与工程：硕士 MG、博士 DG（`Postgrad-Control`，待建设）
+- 材料科学与工程：硕士 MJ、博士 DJ（`Postgrad-Materials`，待建设）
+- 建筑学：硕士 ML、博士 DL（`Postgrad-Architecture`，待建设）
+- 化学：硕士 MQ、博士 DQ（`Postgrad-Chemistry`，待建设）
+- 设计学：硕士 MS、博士 DS（`Postgrad-Design`，待建设）
+- 航空宇航科学与技术：硕士 MT、博士 DT（`Postgrad-Aerospace`，待建设）
+- 集成电路科学与工程：硕士 MV、博士 DV（`Postgrad-IntegratedCircuits`，待建设）
+- 生物医学工程：硕士 MW、博士 DW（`Postgrad-BiomedicalEngineering`，待建设）
+- 智能科学与技术：硕士 MX、博士 DX（`Postgrad-IntelligentScience`，待建设）
 
-研究方向: 机器学习、计算机视觉
+### 仅设有硕士模块
 
-> 文 / 管理员，2025-01
+- 光学工程：MB（`Postgrad-OpticalEngineering`，待建设）
+- 土木工程：MH（`Postgrad-CivilEngineering`，待建设）
+- 环境科学与工程：MI（`Postgrad-EnvironmentalEngineering`，待建设）
+- 城乡规划学：MK（`Postgrad-UrbanPlanning`，待建设）
+- 应用经济学：MM（`Postgrad-AppliedEconomics`，待建设）
+- 工商管理学：MN（`Postgrad-BusinessAdministration`，待建设）
+- 数学：MO（`Postgrad-Mathematics`，待建设）
+- 物理学：MP（`Postgrad-Physics`，待建设）
+- 力学：MR（`Postgrad-Mechanics`，待建设）
+- 马克思主义理论：MU（`Postgrad-Marxism`，待建设）
 
-<!-- TOML-LECTURERS: part="items" -->
-- 教师A
-  <!-- TOML-ITEM: id="review-教师A-1" -->
-  - 教师评价内容。
-  - 可以多行。
-    > 文 / [昵称](https://github.com/xxx)，2025-03
-  <!-- TOML-ITEM: id="review-教师A-2" -->
-  - 另一条评价
-    > 文 / 匿名，2025-01
-- 教师B
-  <!-- TOML-ITEM: id="review-教师B-1" -->
-  - 教师B的评价
-    > 文 / 学生，2024-12
-<!-- TOML-LECTURERS: part="summary" -->
+### 仅设有博士模块
 
-<!-- TOML-ITEM: id="lecturers-summary-1" -->
-
-教师团队总结。
-整体教学水平较高。
-
-> 文 / 管理员，2025-01
-
-<!-- TOML-ITEM: id="lecturers-summary-2" -->
-
-建议: 尽早选课，晚了好老师就没了
-
-## 考核方式
-<!-- TOML-SECTION: title="考核方式" -->
-
-<!-- TOML-ITEM: id="item-考核方式-1" -->
-
-• 平时成绩: 30%
-• 期中考试: 30%
-• 期末考试: 40%
-
-> 文 / 昵称A，2025-03
-
-<!-- TOML-ITEM: id="item-考核方式-2" -->
-
-• 2024年: 期末 60% + 平时 40%
-
-> 文 / 昵称B，2024-01
-
-## 学习资料
-<!-- TOML-SECTION: title="学习资料" -->
-
-<!-- TOML-ITEM: id="item-学习资料-1" -->
-
-• 教材: 《书名》
-• 参考资料链接
+- 管理科学与工程：DM（`Postgrad-ManagementScience`，待建设）
+- 交通运输工程：DU（`Postgrad-Transportation`，待建设）
