@@ -17,12 +17,12 @@ title = "硕士、博士均设有的模块"
 
 [[courses.sections.items]]
 content = """
-- 计算机科学与技术：硕士 MA、博士 DA（[Postgrad-ComputerScience](https://github.com/HITSZ-OpenAuto/Postgrad-ComputerScience)）
+- 计算机科学与技术：硕士 MA、博士 DA（[Postgrad-ComputerScience](https://hoa.moe/docs/postgrad-electives/postgrad-ComputerScience)）
 - 信息与通信工程：硕士 MC、博士 DC（`Postgrad-InformationCommunication`，待建设）
 - 机械工程：硕士 MD、博士 DD（`Postgrad-MechanicalEngineering`，待建设）
 - 动力工程及工程热物理：硕士 ME、博士 DE（`Postgrad-PowerEngineering`，待建设）
 - 电气工程：硕士 MF、博士 DF（`Postgrad-ElectricalEngineering`，待建设）
-- 控制科学与工程：硕士 MG、博士 DG（[Postgrad-Control](https://github.com/HITSZ-OpenAuto/Postgrad-Control)）
+- 控制科学与工程：硕士 MG、博士 DG（[Postgrad-Control](https://hoa.moe/docs/postgrad-electives/Postgrad-Control)）
 - 材料科学与工程：硕士 MJ、博士 DJ（`Postgrad-Materials`，待建设）
 - 建筑学：硕士 ML、博士 DL（`Postgrad-Architecture`，待建设）
 - 化学：硕士 MQ、博士 DQ（`Postgrad-Chemistry`，待建设）
